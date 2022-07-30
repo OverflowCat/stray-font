@@ -1,0 +1,38 @@
+= stray-font
+
+`stray-font` is an unofficial OTF font for the alphabet used in link:https://store.steampowered.com/app/1332010/Stray/[_Stray_], the cat game.
+
+== Demo
+
+image:http://telegra.ph/file/31f379007c795e9a59770.png[Screenshot]
+
+== Characters
+
+.Done
+
+- `[A-Z]`: Primary Alphabet
+
+- `[0-9]`: Digits
+
+.Todo
+
+- `[a-z]`: Secondary Alphabet
+
+- `[\u1F000-\u1F02F]`: Mahjong Tiles
+
+- Outsiders symbol
+
+== Usage
+
+=== Download
+
+The repo contains source in `.ai` format only. You can download OTF files from link:https://github.com/OverflowCat/stray-font/releases/[Releases].
+
+=== Build
+
+Please use link:https://www.ftself.com/[FontSelf]'s plugin *Fontself Maker
+for Illustrator CC*.
+
+=== License
+
+This font is licensed under the *SIL Open Font License*, Version 1.1.
